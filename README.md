@@ -1,5 +1,5 @@
 # Æsir-Protocol
-Æsir Protocol; a self-amending forkless consensus protocol for on-chain governance on THORChain. Read the whitepaper here: [Æsir Protocol Whitepaper](https://github.com/thorchain/Resources/tree/master/Whitepapers/aesir-protocol)
+Æsir Protocol; a self-amending forkless consensus protocol for on-chain governance on THORChain. Read the whitepaper here: [Æsir Protocol Whitepaper](https://github.com/thorchain/Resources/tree/master/Whitepapers/AEsir-Protocol)
 
 ## Getting Started
 
